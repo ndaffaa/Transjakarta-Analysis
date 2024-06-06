@@ -19,8 +19,10 @@ This notebook explores various aspects of Transjakarta's data, including trip de
 - Trip details: corridorID, corridorName, direction, tapInStops, tapInStopsName, tapInTime, tapOutStops, tapOutStopsName, tapOutTime
 - Fare information: payAmount
 
+**Tableau**
 - [Tableau Dashboard](https://public.tableau.com/views/TransjakartaAnalysisDashboard/TransjakartaDashboardAnalytics?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 - [Tableau Story](https://public.tableau.com/views/TransjakartaAnalysisStory/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
 **Contributing:**
 
 We welcome contributions to this project. Feel free to submit pull requests with improvements or additional analysis.
